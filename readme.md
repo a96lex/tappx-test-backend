@@ -4,7 +4,7 @@ Simple php CRUD backend repository to handle bundle information.
 
 ## Local usage
 
-Requisites: mysql
+### mysql
 
 launch and login to mysql
 
@@ -28,6 +28,11 @@ CREATE TABLE bundles(
     category varchar(10) NOT NULL
     );
 ```
+
+### Serve php:
+
+- clone this repo
+- run `php -S localhost:8000`
 
 Ready to go!
 
