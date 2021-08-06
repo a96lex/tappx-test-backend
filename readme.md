@@ -8,11 +8,11 @@ Simple php CRUD backend repository to handle bundle information.
 
 launch and login to mysql
 
-update `database.php` and type your mysql username and pasword on the corresponding variables
-
 create database `CREATE DATABASE tappx;`
 
 go to database `use tappx;`
+
+update `database.php` and type your mysql username and pasword on the corresponding variables
 
 create table
 
